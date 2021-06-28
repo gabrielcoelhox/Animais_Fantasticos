@@ -13,8 +13,8 @@ function initTabNav() {
         }
   
         tabMenu.forEach((itemMenu, index) => {
-                itemMenu.addEventListener('click', () => {
-                    activeTab(index);
+            itemMenu.addEventListener('click', () => {
+                activeTab(index);
             });
         });
     }
