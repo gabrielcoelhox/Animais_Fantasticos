@@ -66,6 +66,15 @@ body {
     grid-column: 1 / 4;
 }
 
+.titulo .contato {
+    font-family: 'Playfair Display SC', georgia;
+    font-size: 5rem;
+    line-height: 1;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    grid-column: 1 / 4;
+}
+
 .animais h2 {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 1rem;
@@ -132,6 +141,7 @@ body {
     margin-top: 2rem;
     margin-bottom: .5rem;
     color: #E54;
+    cursor: pointer;
 }
 
 .faq-lista dt::before {
@@ -225,7 +235,7 @@ body {
 
 .js-tabcontent section.ativo {
     display: block !important;
-    animation: show .5s forwards;
+    animation: show .8s forwards;
 }
 
 @keyframes show {
