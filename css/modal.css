@@ -16,7 +16,7 @@
     top: 0;
     left: 0;
     z-index: 2000;
-    display: none;
+    display: grid;
     justify-content: center;
     align-items: center;
 }
