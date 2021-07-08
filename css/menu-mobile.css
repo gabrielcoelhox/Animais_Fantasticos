@@ -22,7 +22,6 @@
     }
     
     .js [data-menu="button"]::before {
-
         margin-right: 4px;
         content: '';
         display: inline-block;
@@ -34,7 +33,6 @@
     }
   
     .js [data-menu="button"].active::before {
-
         transform: rotate(90deg);
     }
     
