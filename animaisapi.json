@@ -1,18 +1,18 @@
 [
     {
-        "specie": "Lobos",
+        "specie": "NIFFLER",
         "total": 4874
     },
     {
-        "specie": "Raposas",
+        "specie": "BOWTRUCKLE",
         "total": 5374
     },
     {
-        "specie": "Esquilos",
-        "total": 12340
+        "specie": "THUNDERBIRD",
+        "total": 134
     },
     {
-        "specie": "Ursos",
-        "total": 230
+        "specie": "AUGUREY",
+        "total": 843
     }
 ]
