@@ -43,10 +43,14 @@ body {
     color: #222;
     text-decoration: none;
     font-family: 'IBM Plex Mono', monospace;
-    font-weight: bold;
     text-transform: uppercase;
     font-size: 0.875rem;
     letter-spacing: .1em;
+}
+
+.menu li a:hover{
+    color: white;
+    transition: .2s;
 }
 
 .grid-section {
