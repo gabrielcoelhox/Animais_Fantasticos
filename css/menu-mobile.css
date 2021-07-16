@@ -3,7 +3,6 @@
 }
   
 @media (max-width: 700px) {
-
     .js [data-menu="button"] {
         display: flex;
         background: #222;
